@@ -10,9 +10,7 @@ material for the corresponding publication.
 
 ## Structure
 
-reports/
-└─ YEAR/
-└─ SCRR_VolXX_ReportYY_Title_Research-Pack_vZ.Z.zip
+reports/YEAR/SCRR_VolXX_ReportYY_Title_Research-Pack_vZ.Z.zip
 
 ---
 
@@ -24,8 +22,11 @@ reports/
 
 ---
 
-## Disclaimer
+## License Note
 
-These materials are provided for educational and informational purposes.
-They do not constitute legal, financial, or professional advice.
+While this repository uses the MIT License for distribution,
+the contents consist primarily of research reports and documents.
+
+You are free to share and reference these materials with attribution.
+Nothing in this repository constitutes legal, financial, or professional advice.
 
