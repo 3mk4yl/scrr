@@ -30,3 +30,13 @@ the contents consist primarily of research reports and documents.
 You are free to share and reference these materials with attribution.
 Nothing in this repository constitutes legal, financial, or professional advice.
 
+---
+
+## Research Disclosure
+
+These reports were generated using GPT-Researcher, an AI-assisted research
+tool that aggregates and summarizes publicly available sources.
+The reports constitute secondary research and literature synthesis.
+They do not represent original empirical research or peer-reviewed findings.
+All interpretations and responsibility for use rest with the author.
+
