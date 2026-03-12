@@ -10,7 +10,7 @@ Each folder contains the original research dossiers in markdown used as source m
 
 ### Volume 1, 2026
 
-- [Trust Nothing At Machine Speed](https://www.amazon.de) (Amazon)
+- [Adversarial-Machines](https://www.amazon.de) (Amazon)
 - [Dossiers](dossiers/2026/01-Adversarial-Machines)
 
 
