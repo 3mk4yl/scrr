@@ -10,8 +10,8 @@ Each folder contains the original research dossiers in markdown used as source m
 
 ### Volume 1, 2026
 
-- [AI As A Weapon](https://www.amazon.de) (Amazon)
-- [Dossiers](dossiers/2026/01-AI_As_A_Weapon/)
+- [Trust Nothing At Machine Speed](https://www.amazon.de) (Amazon)
+- [Dossiers](dossiers/2026/01-Trust_Nothing_At_Machine_Speed/)
 
 
 ---
