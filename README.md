@@ -10,7 +10,10 @@ Each folder contains the original research dossiers in markdown used as source m
 
 ### Volume 1, 2026
 
-- [Adversarial Machines](https://www.amazon.de) (Amazon)
+- **Title:** Adversarial Machines
+- **Subtitle:** The Convergence of Autonomous Offense, Poisoned Intelligence, and the Collapse of Digital Trust
+
+- [Link to Amazon](https://www.amazon.de)
 - [Dossiers](dossiers/2026/01-Adversarial-Machines)
 
 
