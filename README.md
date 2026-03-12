@@ -36,16 +36,16 @@ dossiers/year/title/
 
 To provide full transparency into the "Chain of Custody" of the information presented, the following methodology was employed:
 
-1. **Layer 1: Original Data Acquisition** The foundation of this report is built upon raw, real-time data—including technical telemetry, academic pre-prints, and primary security disclosures—gathered from a wide-spectrum retriever stack.
+1. **Layer 1: Original Data Acquisition** The foundation of the reports is built upon raw, real-time data—including technical telemetry, academic pre-prints, and primary security disclosures—gathered from a wide-spectrum retriever stack.
 
-2. **Layer 2: Autonomous Research Synthesis** Using **gpt-researcher**, this raw data was processed into the core research dossiers cited in this work. This stage involved recursive filtering and multi-source verification to identify emerging patterns and technical edge cases.
+2. **Layer 2: Autonomous Research Synthesis** Using **gpt-researcher**, this raw data was processed into the core research dossiers. This stage involved recursive filtering and multi-source verification to identify emerging patterns and technical edge cases.
 
-3. **Layer 3: Human-Centric Curation** The final report you are holding is the result of my structural refinement and strategic editing using various LLMs in the process. My role as the human lead was to transform high-density AI outputs into a cohesive, actionable narrative for professional implementation.
+3. **Layer 3: Human-Centric Curation** The final report available on Amazon is the result of my structural refinement and strategic editing using various LLMs in the process. My role as the human lead was to transform high-density AI outputs into a cohesive, actionable narrative for professional implementation.
 
 ---
 ## License Note
 
-While this repository uses the MIT License for distribution, the contents consist primarily of research reports and documents.
+While this repository uses the MIT License for distribution, the contents consist primarily of research dossiers and documents.
 
 You are free to share and reference these materials with attribution. Nothing in this repository constitutes legal, financial, or professional advice.
 
