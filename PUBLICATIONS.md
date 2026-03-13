@@ -7,6 +7,7 @@ This document indexes all published volumes of the *Strategic Cyber Risk Report*
 
 ### Report No. 1: Adversarial Machine
 **Subtitle:** *The Convergence of Autonomous Offense, Poisoned Intelligence, and the Collapse of Digital Trust*
+
 **Release Date:** March 2026
 
 > **Synopsis:** The old rules are dead. As autonomous agents execute multi-stage ransomware and LLMs discover zero-days in minutes, the operational asymmetry between machine-time attacks and human-time defense has become the defining characteristic of the modern threat landscape. This report maps the acceleration of AI-driven cyber warfare.
@@ -24,6 +25,7 @@ This document indexes all published volumes of the *Strategic Cyber Risk Report*
 ---
 ### Report No. 2: *Upcoming*
 **Subtitle:** *Upcoming*
+
 **Release Date:** *tba*
 
 > **Synopsis:** *Upcoming*
