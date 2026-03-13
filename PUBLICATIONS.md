@@ -12,7 +12,7 @@ This document indexes all published volumes of the *Strategic Cyber Risk Report*
 > **Synopsis:** The old rules are dead. As autonomous agents execute multi-stage ransomware and LLMs discover zero-days in minutes, the operational asymmetry between machine-time attacks and human-time defense has become the defining characteristic of the modern threat landscape. This report maps the acceleration of AI-driven cyber warfare.
 
 * 🛒 **[Purchase the Book on Amazon KDP (Link)](https://www.amazon.com)**
-* 📁 **[Access the Raw Research Dossiers (GitHub Folder)](./dossiers/2026/01_adversarial_machine/)**
+* 📁 **[Access the Raw Research Dossiers (GitHub Folder)](dossiers/2026/01_adversarial_machine/)**
 
 **Referenced Dossiers in this Volume:**
 * `[1]` [Autonomous Offensive Cyber Operations & AI-Driven Malware](./dossiers/2026/1_adversarial_machine/1_autonomous_offensive.md)
