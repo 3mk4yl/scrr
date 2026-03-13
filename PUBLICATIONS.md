@@ -5,7 +5,7 @@ This document indexes all published volumes of the *Strategic Cyber Risk Report*
 ---
 ## Volume 1 (2026)
 
-### Report No. 1: Adversarial Machine
+### Report No. 1: Adversarial Machines
 **Subtitle:** *The Convergence of Autonomous Offense, Poisoned Intelligence, and the Collapse of Digital Trust*
 
 **Release Date:** March 2026
