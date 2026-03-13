@@ -50,4 +50,6 @@ The use of Large Language Models (LLMs) and autonomous agents in technical resea
 While every effort has been made to verify the integrity of the published books, readers are strongly encouraged to consult the primary sources linked within these markdown dossiers before applying findings to mission-critical environments. **This archive is intended to augment—not replace—professional due diligence and hands-on validation.**
 
 **License Note**
-While this repository uses the MIT License for distribution, the contents consist primarily of research reports. You are free to share, fork, and reference these materials with attribution. Nothing in this repository constitutes legal, financial, or professional advice.
+The contents of this repository consist primarily of research reports and data dossiers. This work is licensed under a **Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)**.
+
+You are free to share, fork, and reference these materials with proper attribution. You may not use this material for commercial purposes (e.g., you cannot repackage and sell these dossiers). Furthermore, nothing in this repository constitutes legal, financial, or professional cybersecurity advice.
