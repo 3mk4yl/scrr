@@ -36,7 +36,7 @@ Dossiers are organized chronologically by publication year and book title:
 ```text
 dossiers/
 ├── 2026/
-│   └── 01-adversarial-machine/
+│   └── 01-adversarial-machines/
 │       ├── 1_autonomous_offensive_cyber_operations.md
 │       ├── 2_llm_vulnerability_discovery.md
 │       └── ...
