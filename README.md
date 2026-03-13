@@ -49,16 +49,16 @@ dossiers/
 
 ### Research Methodology
 
-These dossiers were generated using AI-assisted research tools that aggregate and summarize publicly available sources. They constitute secondary research and literature synthesis; they do not represent original empirical research or peer-reviewed findings.
+> These dossiers were generated using AI-assisted research tools that aggregate and summarize publicly available sources. They constitute secondary research and literature synthesis; they do not represent original empirical research or peer-reviewed findings.
 
 ### Professional Disclaimer
 
-The use of Large Language Models (LLMs) and autonomous agents in technical research offers unprecedented speed, but it is not infallible. Despite rigorous prompting, iterative filtering, and manual curation, the nature of generative AI means that technical nuances, misattributions, or "hallucinations" may occasionally persist in the raw data.
-
-While every effort has been made to verify the integrity of the published books, readers are strongly encouraged to consult the primary sources linked within these markdown dossiers before applying findings to mission-critical environments. **This archive is intended to augment—not replace—professional due diligence and hands-on validation.**
+> The use of Large Language Models (LLMs) and autonomous agents in technical research offers unprecedented speed, but it is not infallible. Despite rigorous prompting, iterative filtering, and manual curation, the nature of generative AI means that technical nuances, misattributions, or "hallucinations" may occasionally persist in the raw data.
+> 
+> While every effort has been made to verify the integrity of the published books, readers are strongly encouraged to consult the primary sources linked within these markdown dossiers before applying findings to mission-critical environments. **This archive is intended to augment—not replace—professional due diligence and hands-on validation.**
 
 ### License Note
 
-The contents of this repository consist primarily of research reports and data dossiers. This work is licensed under a **Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)**.
-
-You are free to share, fork, and reference these materials with proper attribution. You may not use this material for commercial purposes (e.g., you cannot repackage and sell these dossiers). Furthermore, nothing in this repository constitutes legal, financial, or professional cybersecurity advice.
+> The contents of this repository consist primarily of research reports and data dossiers. This work is licensed under a **Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)**.
+> 
+> You are free to share, fork, and reference these materials with proper attribution. You may not use this material for commercial purposes (e.g., you cannot repackage and sell these dossiers). Furthermore, nothing in this repository constitutes legal, financial, or professional cybersecurity advice.
