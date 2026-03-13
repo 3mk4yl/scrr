@@ -6,7 +6,7 @@ title: "Strategic Cyber Risk Reports — Research Archive"
 type: dataset
 authors:
   - family-names: "Klimke"
-  - given-names: "Markus"
+    given-names: "Markus"
 version: 1.0
 date-released: "2026-03-13"
 repository-code: "https://github.com/3mk4yl/scrr"
