@@ -6,18 +6,21 @@ This repository serves as the official open-source archive for the raw research 
 In an era of generative AI and epistemic fragmentation, trusting a cybersecurity book without seeing its source data is a critical vulnerability. This repository is my patch. I am open-sourcing the entire bibliography, allowing security practitioners, researchers, and peers to independently verify the data, trace the citations, and audit the chain of custody for every technical claim made in my publications.
 
 ---
-
 ## 📚 Publications & Book Index
-Looking for the actual reports or the specific dossiers for a book you are reading? 
+
+Looking for the actual reports or the specific dossiers for a book you are reading?
+
 **👉 [View the Publications Index (PUBLICATIONS.md)](PUBLICATIONS.md)**
 
 ---
-
 ## 🏗️ The Research Architecture (Chain of Custody)
+
 To provide full transparency into how the information in our books is gathered, synthesized, and published, we employ a strict three-tier methodology:
 
 * **Layer 1: Original Data Acquisition** The foundation of our reports is built upon raw, real-time data—including technical telemetry, academic pre-prints, and primary security disclosures—gathered via a wide-spectrum OSINT retriever stack.
+
 * **Layer 2: Autonomous Research Synthesis (This Repository)** Using `gpt-researcher` (Custom Mode), the raw data is recursively filtered and multi-source verified to identify emerging patterns and technical edge cases. These outputs become the highly dense **Tier-2 Dossiers** hosted in this repository. *These files are published exactly as generated to ensure zero manipulation of the source data.*
+
 * **Layer 3: Human-Centric Curation (The Published Books)** The final Amazon reports are the result of structural refinement and strategic synthesis using advanced LLMs (e.g., Claude Opus) under strict "Zero Invention" parameters. The human lead transforms high-density AI outputs into a cohesive, actionable narrative, mapping every claim back to the dossiers found here.
 
 ---
