@@ -7,15 +7,16 @@ type: dataset
 authors:
   - family-names: "3mk4yl"
 version: 1.0
-date-released: 2026-01-01
+date-released: "2026-03-13"
 repository-code: "https://github.com/3mk4yl/scrr"
-license: "MIT"
+license: "CC-BY-NC-4.0"
 keywords:
   - cybersecurity
   - strategic risk
   - executive security
   - AI-assisted research
   - literature review
+  - threat intelligence
 abstract: >
   This repository contains AI-assisted research dossiers generated using
   GPT-Researcher. The materials represent secondary research and structured
