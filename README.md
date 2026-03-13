@@ -17,11 +17,11 @@ Looking for the actual reports or the specific dossiers for a book you are readi
 
 To provide full transparency into how the information in our books is gathered, synthesized, and published, we employ a strict three-tier methodology:
 
-* **Layer 1: Original Data Acquisition** The foundation of our reports is built upon raw, real-time data—including technical telemetry, academic pre-prints, and primary security disclosures—gathered via a wide-spectrum OSINT retriever stack.
+* **Layer 1: Original Data Acquisition** The foundation of my reports is built upon raw, real-time data—including technical telemetry, academic pre-prints, and primary security disclosures—gathered via a wide-spectrum OSINT retriever stack.
 
 * **Layer 2: Autonomous Research Synthesis (This Repository)** Using `gpt-researcher` (Custom Mode), the raw data is recursively filtered and multi-source verified to identify emerging patterns and technical edge cases. These outputs become the highly dense **Tier-2 Dossiers** hosted in this repository. *These files are published exactly as generated to ensure zero manipulation of the source data.*
 
-* **Layer 3: Human-Centric Curation (The Published Books)** The final Amazon reports are the result of structural refinement and strategic synthesis using advanced LLMs (e.g., Claude Opus) under strict "Zero Invention" parameters. The human lead transforms high-density AI outputs into a cohesive, actionable narrative, mapping every claim back to the dossiers found here.
+* **Layer 3: Human-Centric Curation (The Published Books)** The final Amazon reports are the result of structural refinement and strategic synthesis using advanced LLMs under strict "Zero Invention" parameters. The human lead transforms high-density AI outputs into a cohesive, actionable narrative, mapping every claim back to the dossiers found here.
 
 ---
 
