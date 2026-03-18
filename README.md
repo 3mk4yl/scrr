@@ -15,7 +15,7 @@ Looking for the actual reports or the specific dossiers for a book you are readi
 ---
 ## 🏗️ The Research Architecture (Chain of Custody)
 
-To provide full transparency into how the information in our books is gathered, synthesized, and published, we employ a strict three-tier methodology:
+To provide full transparency into how the information in my reports are gathered, synthesized, and published, I employ a strict three-tier methodology:
 
 ### Layer 1: Original Data Acquisition
 
